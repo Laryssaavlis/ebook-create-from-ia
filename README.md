@@ -28,13 +28,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de um ebook sobre o tema javascript no frontend e backend, o ebook é do nicho de programação e o subnicho é de javascript, o titulo deve ser épico e curto e tenha uma tematica de desenvolvedores. me liste 5 variações de titulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco nos Frameworks de Javascript de frontend, Backend e por último banco de dados com alguns exemplos de Código 
-{REGRAS}
->Explique sempre de maneira simples
-> Deixe o texto mediano 
-> Sempre traga exemplos de código em contextos reais 
-> Sempre deixe um texto sugestivo por tópico 
->Traga pelo menos 3 frameworks de front, back e 3 bancos de dados  |
+| conteúdo | Faça um texto para ebook, com foco nos Frameworks de Javascript de frontend, Backend e por último banco de dados com alguns exemplos de Código {REGRAS}, Explique sempre de maneira simples, Deixe o texto mediano, Sempre traga exemplos de código em contextos reais, Sempre deixe um texto sugestivo por tópico, Traga pelo menos 3 frameworks de front, back e 3 bancos de dados  |
 
 
 ## ✨ Features
